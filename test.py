@@ -1,3 +1,3 @@
 print('asdad')
 print('Все работает')
-print('Тест')
+print('Тест без форка')
